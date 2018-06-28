@@ -1,5 +1,5 @@
 variables:
-  PROJECT_NAME: "Library-management"
+  PROJECT_NAME: "Kitaplik"
 before_script:
   - echo "starting build for %PROJECT_NAME%"
   - echo "Restoring NuGet Packages..."
