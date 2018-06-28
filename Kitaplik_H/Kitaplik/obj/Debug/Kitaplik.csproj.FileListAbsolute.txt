@@ -1,0 +1,95 @@
+C:\Users\Safa\documents\visual studio 2015\Projects\Kitaplik\Kitaplik\bin\Debug\Kitaplik.exe.config
+C:\Users\Safa\documents\visual studio 2015\Projects\Kitaplik\Kitaplik\bin\Debug\Deneme1.accdb
+C:\Users\Safa\documents\visual studio 2015\Projects\Kitaplik\Kitaplik\bin\Debug\Kitaplik.exe
+C:\Users\Safa\documents\visual studio 2015\Projects\Kitaplik\Kitaplik\bin\Debug\Kitaplik.pdb
+C:\Users\Safa\documents\visual studio 2015\Projects\Kitaplik\Kitaplik\obj\Debug\Kitaplik.csprojResolveAssemblyReference.cache
+C:\Users\Safa\documents\visual studio 2015\Projects\Kitaplik\Kitaplik\obj\Debug\Kitaplik.Dergi.resources
+C:\Users\Safa\documents\visual studio 2015\Projects\Kitaplik\Kitaplik\obj\Debug\Kitaplik.Film.resources
+C:\Users\Safa\documents\visual studio 2015\Projects\Kitaplik\Kitaplik\obj\Debug\Kitaplik.Giris.resources
+C:\Users\Safa\documents\visual studio 2015\Projects\Kitaplik\Kitaplik\obj\Debug\Kitaplik.Kitaplar.resources
+C:\Users\Safa\documents\visual studio 2015\Projects\Kitaplik\Kitaplik\obj\Debug\Kitaplik.Kullanici.resources
+C:\Users\Safa\documents\visual studio 2015\Projects\Kitaplik\Kitaplik\obj\Debug\Kitaplik.KullaniciDogrulama.resources
+C:\Users\Safa\documents\visual studio 2015\Projects\Kitaplik\Kitaplik\obj\Debug\Kitaplik.KullaniciDuzenleme.resources
+C:\Users\Safa\documents\visual studio 2015\Projects\Kitaplik\Kitaplik\obj\Debug\Kitaplik.KullaniciKayit.resources
+C:\Users\Safa\documents\visual studio 2015\Projects\Kitaplik\Kitaplik\obj\Debug\Kitaplik.Muzik.resources
+C:\Users\Safa\documents\visual studio 2015\Projects\Kitaplik\Kitaplik\obj\Debug\Kitaplik.Personel.resources
+C:\Users\Safa\documents\visual studio 2015\Projects\Kitaplik\Kitaplik\obj\Debug\Kitaplik.PersonelDogrulama.resources
+C:\Users\Safa\documents\visual studio 2015\Projects\Kitaplik\Kitaplik\obj\Debug\Kitaplik.PersonelKayit.resources
+C:\Users\Safa\documents\visual studio 2015\Projects\Kitaplik\Kitaplik\obj\Debug\Kitaplik.Properties.Resources.resources
+C:\Users\Safa\documents\visual studio 2015\Projects\Kitaplik\Kitaplik\obj\Debug\Kitaplik.csproj.GenerateResource.Cache
+C:\Users\Safa\documents\visual studio 2015\Projects\Kitaplik\Kitaplik\obj\Debug\Kitaplik.exe
+C:\Users\Safa\documents\visual studio 2015\Projects\Kitaplik\Kitaplik\obj\Debug\Kitaplik.pdb
+C:\Users\Safa\documents\visual studio 2015\Projects\Kitaplik\Kitaplik\obj\Debug\Kitaplik.Arama.resources
+C:\Users\Dell\Desktop\Kitaplik\Kitaplik\bin\Debug\Deneme1.accdb
+C:\Users\Dell\Desktop\Kitaplik\Kitaplik\bin\Debug\Kitaplik.exe.config
+C:\Users\Dell\Desktop\Kitaplik\Kitaplik\bin\Debug\Kitaplik.exe
+C:\Users\Dell\Desktop\Kitaplik\Kitaplik\bin\Debug\Kitaplik.pdb
+C:\Users\Dell\Desktop\Kitaplik\Kitaplik\obj\Debug\Kitaplik.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\Kitaplik\Kitaplik\obj\Debug\Kitaplik.Arama.resources
+C:\Users\Dell\Desktop\Kitaplik\Kitaplik\obj\Debug\Kitaplik.Dergi.resources
+C:\Users\Dell\Desktop\Kitaplik\Kitaplik\obj\Debug\Kitaplik.Film.resources
+C:\Users\Dell\Desktop\Kitaplik\Kitaplik\obj\Debug\Kitaplik.Giris.resources
+C:\Users\Dell\Desktop\Kitaplik\Kitaplik\obj\Debug\Kitaplik.Kitaplar.resources
+C:\Users\Dell\Desktop\Kitaplik\Kitaplik\obj\Debug\Kitaplik.Kullanici.resources
+C:\Users\Dell\Desktop\Kitaplik\Kitaplik\obj\Debug\Kitaplik.KullaniciDogrulama.resources
+C:\Users\Dell\Desktop\Kitaplik\Kitaplik\obj\Debug\Kitaplik.KullaniciDuzenleme.resources
+C:\Users\Dell\Desktop\Kitaplik\Kitaplik\obj\Debug\Kitaplik.KullaniciKayit.resources
+C:\Users\Dell\Desktop\Kitaplik\Kitaplik\obj\Debug\Kitaplik.Muzik.resources
+C:\Users\Dell\Desktop\Kitaplik\Kitaplik\obj\Debug\Kitaplik.Personel.resources
+C:\Users\Dell\Desktop\Kitaplik\Kitaplik\obj\Debug\Kitaplik.PersonelDogrulama.resources
+C:\Users\Dell\Desktop\Kitaplik\Kitaplik\obj\Debug\Kitaplik.PersonelKayit.resources
+C:\Users\Dell\Desktop\Kitaplik\Kitaplik\obj\Debug\Kitaplik.Properties.Resources.resources
+C:\Users\Dell\Desktop\Kitaplik\Kitaplik\obj\Debug\Kitaplik.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\Kitaplik\Kitaplik\obj\Debug\Kitaplik.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Kitaplik\Kitaplik\obj\Debug\Kitaplik.exe
+C:\Users\Dell\Desktop\Kitaplik\Kitaplik\obj\Debug\Kitaplik.pdb
+C:\Users\HP\Desktop\Kitaplik_H\Kitaplik\bin\Debug\Kitaplik.exe.config
+C:\Users\HP\Desktop\Kitaplik_H\Kitaplik\obj\Debug\Kitaplik.exe
+C:\Users\HP\Desktop\Kitaplik_H\Kitaplik\obj\Debug\Kitaplik.pdb
+C:\Users\HP\Desktop\Kitaplik_H\Kitaplik\bin\Debug\Deneme1.accdb
+C:\Users\HP\Desktop\Kitaplik_H\Kitaplik\bin\Debug\Kitaplik.exe
+C:\Users\HP\Desktop\Kitaplik_H\Kitaplik\bin\Debug\Kitaplik.pdb
+C:\Users\HP\Desktop\Kitaplik_H\Kitaplik\obj\Debug\Kitaplik.Arama.resources
+C:\Users\HP\Desktop\Kitaplik_H\Kitaplik\obj\Debug\Kitaplik.Dergi.resources
+C:\Users\HP\Desktop\Kitaplik_H\Kitaplik\obj\Debug\Kitaplik.Film.resources
+C:\Users\HP\Desktop\Kitaplik_H\Kitaplik\obj\Debug\Kitaplik.Giris.resources
+C:\Users\HP\Desktop\Kitaplik_H\Kitaplik\obj\Debug\Kitaplik.Kitaplar.resources
+C:\Users\HP\Desktop\Kitaplik_H\Kitaplik\obj\Debug\Kitaplik.Kullanici.resources
+C:\Users\HP\Desktop\Kitaplik_H\Kitaplik\obj\Debug\Kitaplik.KullaniciDogrulama.resources
+C:\Users\HP\Desktop\Kitaplik_H\Kitaplik\obj\Debug\Kitaplik.KullaniciDuzenleme.resources
+C:\Users\HP\Desktop\Kitaplik_H\Kitaplik\obj\Debug\Kitaplik.KullaniciKayit.resources
+C:\Users\HP\Desktop\Kitaplik_H\Kitaplik\obj\Debug\Kitaplik.Muzik.resources
+C:\Users\HP\Desktop\Kitaplik_H\Kitaplik\obj\Debug\Kitaplik.Personel.resources
+C:\Users\HP\Desktop\Kitaplik_H\Kitaplik\obj\Debug\Kitaplik.PersonelDogrulama.resources
+C:\Users\HP\Desktop\Kitaplik_H\Kitaplik\obj\Debug\Kitaplik.PersonelKayit.resources
+C:\Users\HP\Desktop\Kitaplik_H\Kitaplik\obj\Debug\Kitaplik.Properties.Resources.resources
+C:\Users\HP\Desktop\Kitaplik_H\Kitaplik\obj\Debug\Kitaplik.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\Kitaplik_H\Kitaplik\obj\Debug\Kitaplik.Uzerimdekiler.resources
+C:\Users\senem\source\repos\Kitaplik_H\Kitaplik\bin\Debug\Deneme1.accdb
+C:\Users\senem\source\repos\Kitaplik_H\Kitaplik\bin\Debug\Kitaplik.exe.config
+C:\Users\senem\source\repos\Kitaplik_H\Kitaplik\bin\Debug\Kitaplik.exe
+C:\Users\senem\source\repos\Kitaplik_H\Kitaplik\bin\Debug\Kitaplik.pdb
+C:\Users\senem\source\repos\Kitaplik_H\Kitaplik\obj\Debug\Kitaplik.csprojResolveAssemblyReference.cache
+C:\Users\senem\source\repos\Kitaplik_H\Kitaplik\obj\Debug\Kitaplik.Arama.resources
+C:\Users\senem\source\repos\Kitaplik_H\Kitaplik\obj\Debug\Kitaplik.Dergi.resources
+C:\Users\senem\source\repos\Kitaplik_H\Kitaplik\obj\Debug\Kitaplik.Film.resources
+C:\Users\senem\source\repos\Kitaplik_H\Kitaplik\obj\Debug\Kitaplik.Giris.resources
+C:\Users\senem\source\repos\Kitaplik_H\Kitaplik\obj\Debug\Kitaplik.Kitaplar.resources
+C:\Users\senem\source\repos\Kitaplik_H\Kitaplik\obj\Debug\Kitaplik.Kullanici.resources
+C:\Users\senem\source\repos\Kitaplik_H\Kitaplik\obj\Debug\Kitaplik.KullaniciDogrulama.resources
+C:\Users\senem\source\repos\Kitaplik_H\Kitaplik\obj\Debug\Kitaplik.KullaniciDuzenleme.resources
+C:\Users\senem\source\repos\Kitaplik_H\Kitaplik\obj\Debug\Kitaplik.KullaniciKayit.resources
+C:\Users\senem\source\repos\Kitaplik_H\Kitaplik\obj\Debug\Kitaplik.Muzik.resources
+C:\Users\senem\source\repos\Kitaplik_H\Kitaplik\obj\Debug\Kitaplik.Personel.resources
+C:\Users\senem\source\repos\Kitaplik_H\Kitaplik\obj\Debug\Kitaplik.PersonelDogrulama.resources
+C:\Users\senem\source\repos\Kitaplik_H\Kitaplik\obj\Debug\Kitaplik.PersonelKayit.resources
+C:\Users\senem\source\repos\Kitaplik_H\Kitaplik\obj\Debug\Kitaplik.Properties.Resources.resources
+C:\Users\senem\source\repos\Kitaplik_H\Kitaplik\obj\Debug\Kitaplik.Uzerimdekiler.resources
+C:\Users\senem\source\repos\Kitaplik_H\Kitaplik\obj\Debug\Kitaplik.csproj.GenerateResource.cache
+C:\Users\senem\source\repos\Kitaplik_H\Kitaplik\obj\Debug\Kitaplik.csproj.CoreCompileInputs.cache
+C:\Users\senem\source\repos\Kitaplik_H\Kitaplik\obj\Debug\Kitaplik.exe
+C:\Users\senem\source\repos\Kitaplik_H\Kitaplik\obj\Debug\Kitaplik.pdb
+C:\Users\HP\Desktop\kson\Kitaplik_H\Kitaplik\bin\Debug\Kitaplik.exe.config
+C:\Users\HP\Desktop\kson\Kitaplik_H\Kitaplik\obj\Debug\Kitaplik.exe
+C:\Users\HP\Desktop\kson\Kitaplik_H\Kitaplik\obj\Debug\Kitaplik.pdb
+C:\Users\HP\Desktop\Kitaplik_H\Kitaplik\obj\Debug\Kitaplik.csprojResolveAssemblyReference.cache

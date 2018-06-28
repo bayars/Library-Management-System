@@ -1,0 +1,4 @@
+personel kullanýcý adý: lucy
+peronel parola: 23
+kullanýcý kullanýcý adý: lucy
+kullanýcý parola: 123
